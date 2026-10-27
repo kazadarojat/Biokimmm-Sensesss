@@ -1,0 +1,8 @@
+{
+  "name": "BioSense 3D - Biokimia Sistem Indra",
+  "description": "Platform interaktif pembelajaran mekanisme biokimiawi sistem indra manusia dengan visualisasi 3D jalur sinyal saraf dan kuis evaluasi otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
